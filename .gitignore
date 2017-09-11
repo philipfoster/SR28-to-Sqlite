@@ -1,0 +1,12 @@
+# Intellij/PyCharm files
+*.iml
+.idea/
+
+# Python bytecode
+*.pyc
+
+# SQLite database
+*.db
+
+# dataset
+data/
